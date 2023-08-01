@@ -9,6 +9,8 @@ node MaoYan/maoyan.js
 - [x] 3.4 [猫眼电影抓取](https://github.com/2ming/NodeWebSpider/blob/master/MaoYan/maoyan.js)
 - [x] 6.4 [今日头条Ajax街拍图片抓取](https://github.com/2ming/NodeWebSpider/blob/master/Jiepai/Jiepai.js)
 - [x] 7.4 淘宝商品
+
+
 - [ ] 8 验证码识别
 - [ ] 9.5 微信公众号文章
 - [ ] 10.1 github抓取
